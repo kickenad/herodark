@@ -1,10 +1,10 @@
-# My Dapp
+# HERO DARK
 
-This project is for the blockchain application My Dapp. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
+This project is for the blockchain application Hero Dark. It contains code for the Smart Contract, web-based dapp and NodeJS server. 
 
 # Pre-requisites
 
-In order to develop and build "My Dapp," the following pre-requisites must be installed:
+In order to develop and build "Hero Dark," the following pre-requisites must be installed:
 
 * [Visual Studio Code](https://code.visualstudio.com/download) (or any IDE for editing Javascript)
 * [NodeJS](https://nodejs.org/en/download/)
@@ -27,7 +27,7 @@ to be installed on your computer. Follow the [instructions](https://www.npmjs.co
 
 # Build, Deploy and Test
 
-Before you can work with Matic's testnet, you need to request some tokens in your test accounts. To make this request type: `yarn faucet` This will request tokens for all 10 test accounts. You may have to run this command a few times to see the token balances get updated. It isn't necessary to wait until all accounts have tokens – the account labeled (0) is the account used to deploy contracts. Once you see a balance for this account, you can continue.
+Before you can work with BSC'S testnet, you need to request some tokens in your test accounts. To make this request type: `yarn faucet` This will request tokens for all 10 test accounts. You may have to run this command a few times to see the token balances get updated. It isn't necessary to wait until all accounts have tokens – the account labeled (0) is the account used to deploy contracts. Once you see a balance for this account, you can continue.
 
 Using a terminal (or command prompt), change to the folder containing the project files and type: `yarn start` This will run all the dev scripts in each project package.json.
 
@@ -43,7 +43,7 @@ Here are the locations of some important files:
 
 To view your dapp, open your browser to http://localhost:5000 for the DappStarter Workspace.
 
-We ♥️ developers and want you to have an awesome experience. You should be experiencing Dappiness at this point. If not, let us know and we will help. Join our [Discord](https://discord.gg/ZzaaqwMmVG) or hit us up on Twitter [@Decentology](https://twitter.com/decentology).
+We ♥️ developers and want you to have an awesome experience. You should be experiencing Dappiness at this point. If not, let us know and we will help.
 
 ## Smart Contract
 
